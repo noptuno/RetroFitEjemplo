@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RetrofitIntro.iml" filepath="$PROJECT_DIR$/RetrofitIntro.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProduccionTablet.iml" filepath="$PROJECT_DIR$/.idea/modules/ProduccionTablet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ProduccionTablet.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ProduccionTablet.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ProduccionTablet.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ProduccionTablet.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ProduccionTablet.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ProduccionTablet.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ProduccionTablet.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ProduccionTablet.app.unitTest.iml" />
     </modules>
   </component>
 </project>
